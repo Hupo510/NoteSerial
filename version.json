@@ -1,6 +1,6 @@
 ﻿{
-    "version": "3,24,1,6",
-    "date": "26,01,21,18",
-    "link": "https://gitee.com/hupo510/note-serial/releases/download/V1.6/NoteSerialSetup.exe",
-    "contents": "添加滚动标记栏显示当前光标，查找结果所在位置等信息，取消minmap\n添加lua调用python的支持，选中文本右键调用脚本进行格式转换注释，自动加载脚本\n结果展示窗口可支持搜索功能，且能无限迭代创建新的子结果展示窗口"
+    "version": "3,24,1,7",
+    "date": "26,02,03,18",
+    "link": "https://gitee.com/hupo510/note-serial/releases/download/V1.7/NoteSerialSetup.exe",
+    "contents": "添加本地英汉词典翻译插件，可选中单词进行翻译\npython的import指令添加懒加载功能，加速程序启动速度\n修复双击搜索文本和查找文本的冲突问题"
 }
