@@ -1,6 +1,6 @@
 ﻿{
-    "version": "3,24,1,7",
-    "date": "26,02,03,18",
-    "link": "https://gitee.com/hupo510/note-serial/releases/download/V1.7/NoteSerialSetup.exe",
-    "contents": "添加本地英汉词典翻译插件，可选中单词进行翻译\npython的import指令添加懒加载功能，加速程序启动速度\n修复双击搜索文本和查找文本的冲突问题"
+    "version": "3,24,1,8",
+    "date": "26,05,10,11",
+    "link": "https://gitee.com/hupo510/note-serial/releases/download/V1.8/NoteSerialSetup.exe",
+    "contents": "添加带搜索标记的垂直滚动条\n修复内存泄露和异常崩溃问题，优化分离组件\n内置打包图片资源到主程序中"
 }
