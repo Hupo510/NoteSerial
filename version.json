@@ -1,6 +1,6 @@
 ﻿{
-    "version": "3,24,1,8",
-    "date": "26,05,10,11",
-    "link": "https://gitee.com/hupo510/note-serial/releases/download/V1.8/NoteSerialSetup.exe",
-    "contents": "添加带搜索标记的垂直滚动条\n修复内存泄露和异常崩溃问题，优化分离组件\n内置打包图片资源到主程序中"
+    "version": "3,24,1,9",
+    "date": "26,06,17,11",
+    "link": "https://gitee.com/hupo510/note-serial/releases/download/V1.9/NoteSerialSetup.exe",
+    "contents": "实现带多标签页管理的自定义标题栏\n多标签页管理实现独立进程的子窗口管理\n多标签页管理实现拖拽移动和拖拽分离融合的功能"
 }
